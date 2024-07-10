@@ -2,8 +2,9 @@
 ### Install
 ```
 git clone https://github.com/e155/p2kbot/
-export TELE_TOKEN="your token"
 ```
+setup TG token as variabre 
+```export TELE_TOKEN="your token"```
 or
 ``` echo export TELE_TOKEN="your token" >> ~./bashrc ```
 ### Run
