@@ -1,0 +1,3 @@
+7009166050:AAGvqdXrsu5lZUmtK6jmawT-TP23aM-ts5g
+https://t.me/e155_p2kbot
+export TELE_TOKEN="7009166050:AAGvqdXrsu5lZUmtK6jmawT-TP23aM-ts5g"
