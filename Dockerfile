@@ -4,8 +4,6 @@ WORKDIR /go/src/app
 COPY . .
 RUN go get
 RUN make build
-RUN chmod +x /go/src/app/p2kbot  
-RUN ls -l /go/src/app/p2kbot  
 
 FROM scratch
 WORKDIR /
