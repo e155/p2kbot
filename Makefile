@@ -1,4 +1,5 @@
-VERSION: 1.0.5
+VERSION: $(shell git describe --tags --abbrev=0)-$(shell git rev-parse --short HEAD) 
+
 format:
 	gofmt -s -w ./
 
